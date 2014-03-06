@@ -4,7 +4,7 @@
   "description": "Dead simple config loader",
   "version": "0.1.1",
   "repository": {
-    "url": ""
+    "url": "https://github.com/jshepard/riq-config"
   },
   "main": "./lib/riq-config.js",
   "dependencies": {},
