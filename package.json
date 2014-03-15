@@ -2,7 +2,7 @@
   "author": "John Shepard",
   "name": "riq-config",
   "description": "Dead simple config loader",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "repository": {
     "url": "https://github.com/jshepard/riq-config"
   },
